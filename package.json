@@ -1,0 +1,22 @@
+{
+  "name": "@jazeee-test/jazeee-npm-org-test",
+  "version": "1.0.0",
+  "description": "Test package for NPM org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazeee/jazeee-npm-org-test.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "jazeee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazeee/jazeee-npm-org-test/issues"
+  },
+  "homepage": "https://github.com/jazeee/jazeee-npm-org-test#readme"
+}
